@@ -12,5 +12,5 @@ https://tessaustin.github.io/scheduler/
 
 ## Screenshot
 
-![img](assets/images/schedulering.png)
+![img](assets/images/scheduler.png)
 
